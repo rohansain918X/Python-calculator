@@ -19,10 +19,4 @@ elif operation == "/":
 
 else :
     print("error")
-
-again = input("do you want calculation again? (yes/no) = ")
-
-if again.lower() != "yes":
-    print("calculation closed")
-    
-
+   
